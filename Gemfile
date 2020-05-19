@@ -9,7 +9,7 @@ gem 'activesupport',    '~> 3.2'
 
 gem 'thor'
 
-gem 'faraday',          '~> 0.7.5'
+gem 'faraday',          '~> 0.17.0'
 gem 'hashr',            '~> 0.0.18'
 gem 'multi_json',       '~> 1.2.0'
 gem 'json'
