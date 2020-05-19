@@ -11,7 +11,7 @@ gem 'thor'
 
 gem 'faraday',          '~> 0.17.0'
 gem 'hashr',            '~> 2.0.0'
-gem 'multi_json',       '~> 1.2.0'
+gem 'multi_json',       '~> 1.14.0'
 gem 'json'
 gem 'coder'
 
