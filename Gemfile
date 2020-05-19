@@ -27,7 +27,7 @@ gem 'march_hare',       '2.7.0'
 gem 'sentry-raven',     require: 'raven'
 
 group :test do
-  gem 'rake',           '~> 0.9.2'
+  gem 'rake',           '~> 12.3.0'
   gem 'mocha',          '~> 0.11.0'
   gem 'rspec'
   gem 'simplecov',      '>= 0.4.0', require: false
