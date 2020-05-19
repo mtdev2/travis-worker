@@ -20,7 +20,7 @@ gem 'docker-api'
 
 gem 'net-ssh',          '~> 2.9.0'
 
-gem 'metriks',          '0.9.9.5'
+gem 'metriks',          '0.9.9.8'
 
 gem 'march_hare',       '2.7.0'
 
