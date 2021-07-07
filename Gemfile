@@ -9,7 +9,7 @@ gem 'activesupport',    '~> 4.0'
 
 gem 'thor'
 
-gem 'faraday', '~> 1.0.0'
+gem 'faraday', '~> 0.7.6'
 gem 'hashr',            '~> 2.0.0'
 gem 'multi_json',       '~> 1.14.0'
 gem 'json'
@@ -31,7 +31,7 @@ group :test do
   gem 'mocha',          '~> 1.11.0'
   gem 'rspec'
   gem 'simplecov',      '>= 0.4.0', require: false
-  gem 'webmock'
+  gem 'webmock', '>= 1.18.0'
 end
 
 group :development do
