@@ -28,7 +28,7 @@ gem 'sentry-raven', '>= 0.12.1', require: 'raven'
 
 group :test do
   gem 'rake',           '~> 12.3.0'
-  gem 'mocha',          '~> 1.11.0'
+  gem 'mocha',          '~> 1.16.0'
   gem 'rspec'
   gem 'simplecov',      '>= 0.4.0', require: false
   gem 'webmock'
