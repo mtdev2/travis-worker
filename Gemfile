@@ -5,11 +5,11 @@ gem 'travis-support',   git: 'https://github.com/travis-ci/travis-support'
 
 gem 'celluloid',        git: 'https://github.com/celluloid/celluloid', ref: '5a56056'
 
-gem 'activesupport',    '~> 4.0'
+gem 'activesupport', '~> 6.1', '>= 6.1.7.1'
 
 gem 'thor'
 
-gem 'faraday', '~> 1.0.0'
+gem 'faraday', '~> 0.8.0'
 gem 'hashr',            '~> 2.0.0'
 gem 'multi_json',       '~> 1.14.0'
 gem 'json'
