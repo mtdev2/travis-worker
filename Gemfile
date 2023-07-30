@@ -18,7 +18,7 @@ gem 'coder'
 gem 'fog',              '~> 2.2.0'
 gem 'docker-api'
 
-gem 'net-ssh',          '~> 6.1.0'
+gem 'net-ssh',          '~> 7.2.0'
 
 gem 'metriks',          '0.9.9.8'
 
