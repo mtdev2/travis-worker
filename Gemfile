@@ -15,8 +15,8 @@ gem 'multi_json',       '~> 1.14.0'
 gem 'json'
 gem 'coder'
 
-gem 'fog',              '~> 2.2.0'
-gem 'docker-api'
+gem 'fog', '~> 1.37.0'
+gem 'docker-api', '>= 1.13.3'
 
 gem 'net-ssh',          '~> 6.1.0'
 
