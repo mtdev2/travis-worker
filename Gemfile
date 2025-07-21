@@ -7,7 +7,7 @@ gem 'celluloid',        git: 'https://github.com/celluloid/celluloid', ref: '5a5
 
 gem 'activesupport',    '~> 4.0'
 
-gem 'thor'
+gem 'thor', '>= 1.4.0'
 
 gem 'faraday', '~> 1.0.0'
 gem 'hashr',            '~> 2.0.0'
