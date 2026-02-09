@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'travis-build',     git: 'https://github.com/travis-ci/travis-build'
 gem 'travis-support',   git: 'https://github.com/travis-ci/travis-support'
 
-gem 'celluloid',        git: 'https://github.com/celluloid/celluloid', ref: '5a56056'
+gem 'celluloid',        git: 'https://github.com/celluloid/celluloid', ref: '0a307cff21e1a55ddbc5687bcd6ba9e47f89796d'
 
 gem 'activesupport',    '~> 4.0'
 
