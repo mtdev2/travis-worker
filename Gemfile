@@ -9,7 +9,7 @@ gem 'activesupport',    '~> 4.0'
 
 gem 'thor'
 
-gem 'faraday', '~> 1.0.0'
+gem 'faraday', '~> 2.14.1'
 gem 'hashr',            '~> 2.0.0'
 gem 'multi_json',       '~> 1.14.0'
 gem 'json'
@@ -24,7 +24,7 @@ gem 'metriks',          '0.9.9.8'
 
 gem 'march_hare',       '2.7.0'
 
-gem 'sentry-raven', '>= 0.12.1', require: 'raven'
+gem 'sentry-raven', '>= 0.12.2', require: 'raven'
 
 group :test do
   gem 'rake',           '~> 12.3.0'
