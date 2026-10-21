@@ -22,7 +22,7 @@ gem 'net-ssh',          '~> 6.1.0'
 
 gem 'metriks',          '0.9.9.8'
 
-gem 'march_hare',       '2.7.0'
+gem 'march_hare',       '2.22.0'
 
 gem 'sentry-raven', '>= 0.12.1', require: 'raven'
 
